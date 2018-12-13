@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welkom bij Jekyll!"
 date:   2018-12-13 20:25:33 +0100
 categories: jekyll update
 ---
+Deze post vind je in je `_posts` folder. Ga er gerust mee aan de slag, en kijk wat er aan de site verandert. Je kunt de site op allerlei manieren verversen, maar de meest gangbare manier is om "jekyll serve" te laten lopen, waarmee een webserver wordt gestart die er automatisch voor zorgt dat je site wordt ververst als een bestand gewijzigd is. 
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
