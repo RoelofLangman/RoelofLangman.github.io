@@ -20,7 +20,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Om foto's op te zetten, korte stukjes te schrijven,
   aantekeningen te maken. Als je toch mee wilt lezen,
   ga je gang!
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://roeloflangman.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  RoelofLangman
