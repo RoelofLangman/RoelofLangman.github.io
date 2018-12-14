@@ -19,7 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
     Deze mini-website is vooral bedoeld voor het uitproberen van Jekyll. 
     Een zandbak om in te spelen. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://roeloflangman.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  RoelofLangman
 
@@ -30,7 +30,7 @@ plugins:
   - jekyll-feed
 
 minima:
-  date_format: "%b %-d %Y"
+  date_format: "%-d %b %Y"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
