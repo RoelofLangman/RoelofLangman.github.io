@@ -1,5 +1,5 @@
 ---
-title: Gourmetten...
+title: Marineren
 ---
 
 Onze familie wil gourmetten met de kerst. Net als 38% van de rest van de Nederlandse bevolking. Gourmetten is lekker, omdat je alleen klaarmaakt wat je zelf lust. En het is makkelijk, omdat je alleen de ingrediënten hoeft klaar te zeggen. De gasten doen de rest, zelf. 
@@ -34,3 +34,5 @@ De [Allerhande](https://www.ah.nl/allerhande/recept/R-R558834/griekse-marinade-v
 Appie Heijn raadt aan om de vis met de marinade te bestrijken en een half tot twee uur te marineren. 
 
 Het internet is niet groot genoeg om er een marinade voor hertenbiefstuk op te vinden zonder wijn of zelfs Armagnac. Even leek het te lukken bij Jamie's kerstdiner, maar de marinade op die pagina bleek een perfecte marinade... voor garnalen. 
+
+Maar de vraag waarmee het allemaal begint, is natuurlijk: waarom marineren? [Lekker tafelen](https://lekkertafelen.nl/kookschool/marineren-voegt-iets-toe/) geeft een antwoord op die vraag.
