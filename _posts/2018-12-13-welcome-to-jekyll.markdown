@@ -9,21 +9,20 @@ Deze *post* vind je in je `_posts` folder. Ga er gerust mee aan de slag, en kijk
 Als je een nieuwe *post*  wil maken, zet je een bestand in de
 `_posts`-folder die je een naam geeft die zo is opgebouwd: 
 `YYYY-MM-DD-name-of-post.ext`. Denk eraan dat je bestand de 
-verplichte eerste regels hebben. Je kunt in de bron van dit bericht zien
-hoe dat werkt.  
+vereiste eerste regels heeft. In de bron van dit bericht
+kun je zien hoe dat werkt.  
 
 Je kunt in Jekyll ook prachtig computercode opnemen:
 
 {% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
+def zeg_hoi(naam)
+  puts "Hoi #{naam}!"
 end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+zeg_hoi('Piet')
+#=> print 'Hoi Piet!' naar STDOUT.
 {% endhighlight %}
 
-Check de [Jekyll docs][jekyll-docs] voor meer informatie
-over hoe je uit Jekyll kunt halen wat erin zit.
+Check de [Jekyll docs][jekyll-docs] om uit Jekyll te halen wat erin zit.
 Als je programmeerfouten tegenkomt of nieuwe mogelijkheden wilt:
 zet ze dan in [Jekyll’s GitHub repo][jekyll-gh]. 
 En als je vragen hebt, stel ze dan in [Jekyll Talk][jekyll-talk].
