@@ -4,13 +4,15 @@ title:  "Welkom bij Jekyll!"
 date:   2018-12-13 20:25:33 +0100
 categories: jekyll update
 ---
-Deze post vind je in je `_posts` folder. Ga er gerust mee aan de slag, en kijk wat er aan de site verandert. Je kunt de site op allerlei manieren verversen, maar de meest gangbare manier is om "jekyll serve" te laten lopen, waarmee een webserver wordt gestart die er automatisch voor zorgt dat je site wordt ververst als een bestand gewijzigd is. 
+Deze *post* vind je in je `_posts` folder. Ga er gerust mee aan de slag, en kijk wat er aan de site verandert. Je kunt de site op allerlei manieren verversen, maar de meest gangbare manier is om "jekyll serve" te laten lopen, waarmee een webserver wordt gestart die er automatisch voor zorgt dat je site wordt ververst als een bestand gewijzigd is. 
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Als je een nieuwe *post*  wil maken, zet je een bestand in de
+`_posts`-folder die je een naam geeft die zo is opgebouwd: 
+`YYYY-MM-DD-name-of-post.ext`. Denk eraan dat je bestand de 
+verplichte eerste regels hebben. Je kunt in de bron van dit bericht zien
+hoe dat werkt.  
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
+Je kunt in Jekyll ook prachtig computercode opnemen:
 
 {% highlight ruby %}
 def print_hi(name)
@@ -20,7 +22,11 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Check de [Jekyll docs][jekyll-docs] voor meer informatie
+over hoe je uit Jekyll kunt halen wat erin zit.
+Als je programmeerfouten tegenkomt of nieuwe mogelijkheden wilt:
+zet ze dan in [Jekyll’s GitHub repo][jekyll-gh]. 
+En als je vragen hebt, stel ze dan in [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
